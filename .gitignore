@@ -1,0 +1,11 @@
+node_modules
+dist
+build
+.env
+.yarn
+.DS_Store
+yarn.lock
+.vscode
+package-lock.json
+src-tauri
+out/
